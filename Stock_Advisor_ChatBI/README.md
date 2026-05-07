@@ -133,6 +133,6 @@
 
 ## 📞 联系方式
 
-- 作者：Your Name
-- 邮箱：your-email@example.com
-- 项目地址：https://github.com/your-username/stock-query-chatbi
+作者：Pengcheng Song
+邮箱：18749036185@126.com
+项目地址：https://github.com/dfthbvf/dfthbvf/edit/master/Stock_Advisor_ChatBI
