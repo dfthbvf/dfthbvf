@@ -142,5 +142,8 @@ else:
 本项目采用 MIT 许可证。
 
 ## 📞 联系方式
+作者：宋蓬成
+邮箱：18749036185@126.com
+项目地址：https://github.com/dfthbvf/dfthbvf/edit/master/LLM_search
 
 如有问题或建议，欢迎提交 Issue 或联系开发者。
