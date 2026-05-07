@@ -52,7 +52,7 @@
 - **安装步骤**：pip install -r requirements.txt
 
   `# 克隆项目`\
-  `git clone https://github.com/your-username/your-repo.git`\
+  `git clone https://github.com/dfthbvf/dfthbvf/edit/master/Chinese_poetry_painting.git`\
   `cd your-repo`\
  
   `# 安装依赖`\
